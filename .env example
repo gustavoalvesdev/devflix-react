@@ -1,0 +1,4 @@
+REACT_APP_API_KEY = your_tmdb_api_key
+REACT_APP_API_BASE = https://api.themoviedb.org/3
+REACT_APP_LANGUAGE = pt-BR
+REACT_APP_DISCOVER_MOVIE_GENRES = /discover/movie?with_genres
